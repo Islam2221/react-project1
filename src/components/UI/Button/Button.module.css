@@ -1,0 +1,30 @@
+.orange {
+	color: black;
+	padding: 20px 50px;
+	border: none;
+	outline: none;
+	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+	border-radius: 4px;
+	width: 215px;
+	cursor: pointer;
+
+/* text */
+	font-weight: 700;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+}
+
+.white {
+	width: 126px;
+	height: 44px;
+	border-radius: 4px;
+	background-color: #FFFFFF;
+	border: 1px solid #FF3F3A;
+	font-weight: 700;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	color: #FF3F3A;
+	cursor: pointer;
+}
